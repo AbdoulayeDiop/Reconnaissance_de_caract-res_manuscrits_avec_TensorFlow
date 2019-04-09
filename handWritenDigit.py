@@ -1,4 +1,4 @@
-# handWrittenDigitModel : Résultats obtenues
+# handWrittenDigitModel : Résultats obtenus
 # ==> loss: 0.0625 - acc: 0.9864
 
 from __future__ import absolute_import, division, print_function
